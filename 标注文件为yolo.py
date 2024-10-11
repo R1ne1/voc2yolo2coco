@@ -8,6 +8,11 @@ datasets = {
     "COWC_Selwyn_LINZ": "F:/目标样本/object_detection/COWC/train_data/Selwyn_LINZ",
     "COWC_Toronto_ISPRS": "F:/目标样本/object_detection/COWC/train_data/Toronto_ISPRS",
     "COWC_Utah_AGRC": "F:/目标样本/object_detection/COWC/train_data/Utah_AGRC",
+    "LEVIR":"",
+    "VisDrone":"",
+    "CARPK":"",
+    "":"",
+    "":"",
     # "dataset2": "E:/数据集/MAR20/",
     # 你可以继续添加更多的数据集路径
 }
